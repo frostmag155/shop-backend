@@ -3,9 +3,9 @@ const mysql = require("mysql2/promise");
 const cors = require("cors");
 const path = require("path");
 
-// Настройка подключения к базе данных (как в вашем работающем коде)
+
 const pool = mysql.createPool({
-  host: 'MySQL-8.2',  // Меняем обратно на MySQL-8.2
+  host: 'MySQL-8.2',  
   user: 'root',
   password: '', 
   database: 'shop',
