@@ -1,4 +1,4 @@
-# 🍎 Apple Shop - Backend
+#  Apple Shop - Backend
 
 <div align="center">
 
@@ -20,4 +20,5 @@ Backend часть интернет-магазина техники Apple. Об�
 ##  Ссылки
 
 - [Frontend репозиторий](https://github.com/frostmag155/shop-frontend)
+
 
